@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/dotronglong/mockerito/issues"
   },
-  "homepage": "https://github.com/dotronglong/mockerito#readme"
+  "homepage": "https://github.com/dotronglong/mockerito#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
